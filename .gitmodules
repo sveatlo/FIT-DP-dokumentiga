@@ -1,0 +1,3 @@
+[submodule "text"]
+	path = text
+	url = git@github.com:sveatlo/FIT-DP-dokumentiga-text.git
